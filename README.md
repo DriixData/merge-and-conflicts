@@ -1,3 +1,3 @@
-# merge-and-conflicts
+# LOCAL
 
 Repo pour comprendre les conflits et merge
